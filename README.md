@@ -13,7 +13,7 @@ Currently pursuing Master's in Software Engineering in Northeastern University.<
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Payal2000&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal2000&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote for today
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -22,7 +22,6 @@ Currently pursuing Master's in Software Engineering in Northeastern University.<
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.gif" />
   
-
  ![snake gif](https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.svg)
 
 ---

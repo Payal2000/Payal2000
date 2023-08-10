@@ -24,7 +24,9 @@ Currently pursuing Master's in Software Engineering in Northeastern University.<
   
  ![snake gif](https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.svg)
 
+ [![](https://visitcount.itsvg.in/api?id=Payal2000&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Payal2000&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

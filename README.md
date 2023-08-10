@@ -25,7 +25,7 @@ Currently pursuing Master's in Software Engineering in Northeastern University.<
   <img alt="github-snake" src="https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
- ![snake gif](https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.gif)
+
 
 
 ---

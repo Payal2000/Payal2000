@@ -19,7 +19,13 @@ Currently pursuing Master's in Software Engineering in Northeastern University.<
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Payal2000&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+ ![snake gif](https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.gif)
 
 
 ---

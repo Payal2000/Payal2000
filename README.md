@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/O7b01gFko9Ohy/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://github.com/Payal2000/Payal2000/blob/main/batman-thinking.gif">
 <img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yvGNPPoeZckAAAAC/darling-in.gif">
 <img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/eHQ5BsgBIBIGI/giphy.gif">
 <img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/j4h4FTCSkdfry/giphy.gif">

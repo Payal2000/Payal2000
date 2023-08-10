@@ -20,15 +20,13 @@ Currently pursuing Master's in Software Engineering in Northeastern University.<
 ![](https://github-contributor-stats.vercel.app/api?username=Payal2000&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
- #### My contribution graph get eaten by the snake 🐍:
+ ### My contribution graph get eaten by the snake 🐍:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.gif" />
   
  
   
  ![snake gif](https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.svg)
-
-
 
 ---
 

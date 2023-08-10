@@ -1,6 +1,7 @@
 # 💫 My Portfolio:
-**Hello there! I am Payal Nagaonkar and welcome to my github page!! <br><br>
-I am a data enthusiast and enjoy data dabbling**
+**Hello there! I am Payal Nagaonkar and welcome to my github page!!** 
+
+**I am a data enthusiast and enjoy data dabbling**
 
 Currently pursuing Master's in Software Engineering in Northeastern University.<br><br>I am a Data Enthusiast and like to pursue career into same 👨 💻<br><br>I am skilled at handling large, messy datasets, applying data cleaning techniques to ensure data accuracy and consistency 🌱🌱<br><br>I am excited to contribute my expertise and insights to new challenges and to be part of data-driven initiatives that shape the future<br><br>If you'd like to connect or discuss potential collaborations, feel free to reach out. Let's make data work for you!💜💜<br><br>
 

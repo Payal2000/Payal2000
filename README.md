@@ -19,6 +19,10 @@ Currently pursuing Master's in Software Engineering in Northeastern University.<
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Payal2000&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
+<br>
+
 
 
 ---

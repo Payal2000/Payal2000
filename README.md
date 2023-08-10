@@ -14,7 +14,10 @@ Currently pursuing Master's in Software Engineering in Northeastern University.<
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal2000&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=laurasiiia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurasiiia&layout=compact&langs_count=7&theme=tokyonight"/>
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/O7b01gFko9Ohy/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/yvGNPPoeZckAAAAC/darling-in.gif">
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/eHQ5BsgBIBIGI/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/j4h4FTCSkdfry/giphy.gif">
 
 
 ### ✍️ Quote for today

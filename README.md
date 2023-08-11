@@ -93,7 +93,7 @@ If not Data, you'll probably find me playing games like Valorant🎮
 
 <br> <br> <br>
 
- # 🐍 My contribution graph get eaten by the snake:
+ # 🐍 My contribution graph gets eaten by the snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.gif" />
   

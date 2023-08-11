@@ -8,8 +8,19 @@
 <img align="center" alt="zerotwo-pic" height="150" style="border-radius:60px;" src="https://github.com/Payal2000/Payal2000/blob/main/anime-write.gif">
 </div>
 
-#
 
+#
+Hello! I'm Payal, a passionate data scientist with a knack for transforming raw data into meaningful insights. 
+With a background in BE in Telecommunications at SIES and higher secondary in Computer Science, I thrive on unraveling complex problems using statistical analysis, machine learning, and data visualization.
+
+I'm a firm believer in the power of data to drive informed decisions and spark innovation 🔭🔭
+
+My skill set includes proficiency in SQL for database querying, Excel for data manipulation, and visualization tools such as Tableau or Power BI, as well as a deep understanding of data manipulation and feature engineering techniques 
+
+
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/productive.gif" width="370" height="300" align="right"/>
+
+<br>
 
 # 💻 My Skills:
 
@@ -28,12 +39,28 @@
 
 <br>
 
+# :mortar_board:**My Education:** 
+:school:	**Master's in Computer Software Engineering**:- Pursuing my MS in Computer Software Engineering from Northeastern University, Boston, MA. My courses are focused towards Data Analytics, Database Management Systems and ML . 
+* Courses:- 
+     * Object Oriented Design using Java
+     * Web Design and User Experience Engineering
+     * Data Management and Database Design
+     * Program Structure & Algorithms
+  
+:school:	**Bachelor of Engineering in Electronics and Telecommunication**:- I completed my B.E from SIES Graduate School of Technology, Nerul, Maharashtra(8.23 CPI). During my engineering course, I learnt different fields like Artificial Intelligence, Data Science, Machine Learning, etc. Network Management Techniques, Neural Network and Fuzzy Logic,Computer Communication Network caught my attention and were very interesting to learn.
+* Courses:- 
+     * Database Management System 
+     * Network Management Techniques 
+     * Computer Communication Network
+     * Wireless Networks 
+
+
 # ✍️ Quote for today:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 
-# 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Payal2000&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal2000&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

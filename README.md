@@ -15,8 +15,9 @@ With a background in BE in Telecommunications at SIES and higher secondary in Co
 
 I'm a firm believer in the power of data to drive informed decisions and spark innovation 🔭🔭
 
-My skill set includes proficiency in SQL for database querying, Excel for data manipulation, and visualization tools such as Tableau or Power BI, as well as a deep understanding of data manipulation and feature engineering techniques 
+My skill set includes proficiency in SQL for database querying, Excel for data manipulation, and visualization tools such as Tableau or Power BI, as well as a deep understanding of data manipulation and feature engineering techniques.
 
+If not Data, you'll probably find me playing games like Valorant🎮
 
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/productive.gif" width="370" height="300" align="right"/>
 

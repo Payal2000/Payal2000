@@ -61,6 +61,12 @@ If not Data, you'll probably find me playing games like Valorant🎮
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 
+# My Roadmap Progress:
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c16351fcdcf9c5d5106c9b?variant=dark" alt="roadmap.sh"/></a>
+
+
+<br>
+
 # 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Payal2000&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal2000&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -89,8 +95,6 @@ If not Data, you'll probably find me playing games like Valorant🎮
 -----
 
 
-
-
 <br> <br> <br>
 
  # 🐍 My contribution graph gets eaten by the snake:
@@ -98,7 +102,6 @@ If not Data, you'll probably find me playing games like Valorant🎮
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.gif" />
   
  ![snake gif](https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.svg)
-
 
 
 

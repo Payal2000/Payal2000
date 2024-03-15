@@ -47,6 +47,8 @@ If not Data, you'll probably find me playing games like Valorant🎮
      * Web Design and User Experience Engineering
      * Data Management and Database Design
      * Program Structure & Algorithms
+     * Data Science and Engineering Methods
+     * Business Process Engineering
   
 :school:	**Bachelor of Engineering in Electronics and Telecommunication**:- I completed my B.E from SIES Graduate School of Technology, Nerul, Maharashtra(8.23 CPI). During my engineering course, I learnt different fields like Artificial Intelligence, Data Science, Machine Learning, etc. Network Management Techniques, Neural Network and Fuzzy Logic,Computer Communication Network caught my attention and were very interesting to learn.
 * Courses:- 

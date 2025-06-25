@@ -10,7 +10,7 @@
 
 
 #
-Hello! I'm Payal, a passionate data scientist with a knack for transforming raw data into meaningful insights. 
+Hello! I'm Payal, a passionate AI and Data Analytics Engineer with a knack for transforming raw data into meaningful insights. 
 With a background in BE in Telecommunications at SIES and higher secondary in Computer Science, I thrive on unraveling complex problems using statistical analysis, machine learning, and data visualization.
 
 I'm a firm believer in the power of data to drive informed decisions and spark innovation 🔭🔭

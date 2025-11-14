@@ -1,4 +1,4 @@
-# 🐛👾 Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Payal, a passionate AI and Software Engineer!👾🐛
+# 👾 Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Payal, a passionate AI and Software Engineer!👾
 
 <div align="center">
 

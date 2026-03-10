@@ -14,6 +14,8 @@ Hello! I'm Payal, a passionate Fullstack & AI Engineer ~ B2B SaaS | Payments | A
 
 I build the kind of software that sits at the core of a product: payment infrastructure, data-connected dashboards, internal tooling, and AI agents that actually work in production.
 
+My work sits at the intersection of software engineering and AI: orchestrating agents with LangGraph and CrewAI, building data pipelines that feed real-time personalization, and shipping fullstack SaaS products where the AI layer isn't an afterthought — it's the core.
+
 Most of my work has been in B2B SaaS: multi-client pipelines, Stripe integrations, forecasting systems, and AI-powered product features. I care about shipping things that are fast, reliable, and built to scale.
 If you're building something in that space or know someone who is, let's connect!
 
@@ -62,18 +64,8 @@ If you're building something in that space or know someone who is, let's connect
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 
-# My Roadmap Progress:
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c16351fcdcf9c5d5106c9b?variant=dark" alt="roadmap.sh"/></a>
-
 
 <br>
-
-# 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Payal2000&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal2000&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
- 
 
 <div style="display: inline_block" ><br>
 

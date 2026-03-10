@@ -17,7 +17,6 @@ I build the kind of software that sits at the core of a product: payment infrast
 Most of my work has been in B2B SaaS: multi-client pipelines, Stripe integrations, forecasting systems, and AI-powered product features. I care about shipping things that are fast, reliable, and built to scale.
 If you're building something in that space or know someone who is, let's connect!
 
-If not Data, you'll probably find me playing games like Valorant🎮
 
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/productive.gif" width="370" height="300" align="right"/>
 

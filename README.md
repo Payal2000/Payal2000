@@ -10,12 +10,12 @@
 
 
 #
-Hello! I'm Payal, a passionate AI and Software Engineer with a knack for transforming raw data into meaningful insights. 
-With a background in BE in Telecommunications at SIES and higher secondary in Computer Science, I thrive on unraveling complex problems using statistical analysis, machine learning, and data visualization.
+Hello! I'm Payal, a passionate Fullstack & AI Engineer ~ B2B SaaS | Payments | Agentic Systems.
 
-I'm a firm believer in the power of data to drive informed decisions and spark innovation 🔭🔭
+I build the kind of software that sits at the core of a product: payment infrastructure, data-connected dashboards, internal tooling, and AI agents that actually work in production.
 
-My skill set includes proficiency in SQL for database querying, Excel for data manipulation, and visualization tools such as Tableau or Power BI, as well as a deep understanding of data manipulation and feature engineering techniques.
+Most of my work has been in B2B SaaS: multi-client pipelines, Stripe integrations, forecasting systems, and AI-powered product features. I care about shipping things that are fast, reliable, and built to scale.
+If you're building something in that space or know someone who is, let's connect!
 
 If not Data, you'll probably find me playing games like Valorant🎮
 

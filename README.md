@@ -40,17 +40,6 @@ If you're building something in that space or know someone who is, let's connect
 
 <br>
 
-# :mortar_board:**My Education:** 
-:school:	**Master's in Computer Software Engineering**:- I completed my MS in Computer Software Engineering from Northeastern University, Boston, MA. My courses are focused towards 
-- Software Engineering
-- Database Management Systems 
-- ML 
-  
-:school:	**Bachelor of Engineering in Electronics and Telecommunication**:- I completed my B.E from SIES Graduate School of Technology, Nerul, Maharashtra(8.23 CPI). During my engineering course, I learnt different fields like 
-- Artificial Intelligence
-- Data Science & Machine Learning
-
-
 # ✍️ Quote for today:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)

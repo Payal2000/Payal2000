@@ -34,7 +34,6 @@ If you're building something in that space or know someone who is, let's connect
 
 <div>
     
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=Payal2000&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)"/>
   <img align="center" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Payal2000&theme=dracula&hide_border=false"/>
    
 </div>
@@ -42,21 +41,14 @@ If you're building something in that space or know someone who is, let's connect
 <br>
 
 # :mortar_board:**My Education:** 
-:school:	**Master's in Computer Software Engineering**:- Pursuing my MS in Computer Software Engineering from Northeastern University, Boston, MA. My courses are focused towards Data Analytics, Database Management Systems and ML . 
-* Courses:- 
-     * Object Oriented Design using Java
-     * Web Design and User Experience Engineering
-     * Data Management and Database Design
-     * Program Structure & Algorithms
-     * Data Science and Engineering Methods
-     * Business Process Engineering
+:school:	**Master's in Computer Software Engineering**:- I completed my MS in Computer Software Engineering from Northeastern University, Boston, MA. My courses are focused towards 
+- Software Engineering
+- Database Management Systems 
+- ML 
   
-:school:	**Bachelor of Engineering in Electronics and Telecommunication**:- I completed my B.E from SIES Graduate School of Technology, Nerul, Maharashtra(8.23 CPI). During my engineering course, I learnt different fields like Artificial Intelligence, Data Science, Machine Learning, etc. Network Management Techniques, Neural Network and Fuzzy Logic,Computer Communication Network caught my attention and were very interesting to learn.
-* Courses:- 
-     * Database Management System 
-     * Network Management Techniques 
-     * Computer Communication Network
-     * Wireless Networks 
+:school:	**Bachelor of Engineering in Electronics and Telecommunication**:- I completed my B.E from SIES Graduate School of Technology, Nerul, Maharashtra(8.23 CPI). During my engineering course, I learnt different fields like 
+- Artificial Intelligence
+- Data Science & Machine Learning
 
 
 # ✍️ Quote for today:

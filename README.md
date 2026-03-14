@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Payal, a passionate AI and Software Engineer!
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Payal, a passionate AI and Software Engineer!
 
 <div align="center">
 
@@ -30,21 +30,7 @@ If you're building something in that space or know someone who is, let's connect
 
 <br>
 
-# 📊 GitHub Stats:
-
-<div>
-    
-  <img align="center" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Payal2000&theme=dracula&hide_border=false"/>
-   
-</div>
-
 <br>
-
-# ✍️ Quote for today:
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-
 
 <br>
 
@@ -71,7 +57,6 @@ If you're building something in that space or know someone who is, let's connect
 
 <br> <br> <br>
 
- # 🐍 My contribution graph gets eaten by the snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Payal2000/workflows/blob/output/github-contribution-grid-snake.gif" />
   

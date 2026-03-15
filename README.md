@@ -1,15 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Payal, a passionate AI and Software Engineer!
 
-<div align="center">
-
-<img align="center" alt="zerotwo-pic" height="150" style="border-radius:60px;" src="https://github.com/Payal2000/Payal2000/blob/main/batman-thinking.gif">
-<img align="center" alt="zerotwo-pic" height="150" style="border-radius:60px;" src="https://github.com/Payal2000/Payal2000/blob/main/aesthetic-anime.gif">
-<img align="center" alt="zerotwo-pic" height="150" style="border-radius:60px;" src="https://github.com/Payal2000/Payal2000/blob/main/spongebob-analytics.gif">
-<img align="center" alt="zerotwo-pic" height="150" style="border-radius:60px;" src="https://github.com/Payal2000/Payal2000/blob/main/anime-write.gif">
-</div>
-
-
-#
 Hello! I'm Payal, a passionate Fullstack & AI Engineer ~ B2B SaaS | Payments | Agentic Systems.
 
 I build the kind of software that sits at the core of a product: payment infrastructure, data-connected dashboards, internal tooling, and AI agents that actually work in production.

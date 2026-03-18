@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Payal, a passionate AI and Software Engineer!
 
-Hello! I'm Payal, a passionate Fullstack & AI Engineer ~ B2B SaaS | Payments | Agentic Systems.
+Hello! I'm Payal, a passionate Fullstack & AI Engineer ~ B2B SaaS | Payments | Agentic Systems
 
 I build the kind of software that sits at the core of a product: payment infrastructure, data-connected dashboards, internal tooling, and AI agents that actually work in production.
 

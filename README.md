@@ -12,7 +12,9 @@ If you're building something in that space or know someone who is, let's connect
   <a href="https://www.payalnagaonkar.com/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/payal-sanjay/">LinkedIn</a> ·
   <a href="https://medium.com/@npayal00">Medium</a> ·
-  <a href="https://github.com/Payal2000">GitHub</a>
+  <a href="https://github.com/Payal2000">GitHub</a> .
+  <a href="https://x.com/icedcoffeecoder">X</a>
+  
 </p>
 
 <br>

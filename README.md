@@ -8,6 +8,13 @@ My work : orchestrating agents with LangGraph, multi-client pipelines, Stripe in
 
 If you're building something in that space or know someone who is, let's connect!
 
+<p align="left">
+  <a href="https://www.payalnagaonkar.com/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/payal-sanjay/">LinkedIn</a> ·
+  <a href="https://medium.com/@npayal00">Medium</a> ·
+  <a href="https://github.com/Payal2000">GitHub</a>
+</p>
+
 <br>
 
 ## Open Source Contributions

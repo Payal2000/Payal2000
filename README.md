@@ -1,12 +1,11 @@
 # Payal Nagaonkar | AI & Software Engineer
 
-Hello! I'm Payal, a FullstackAI Engineer ~ B2B SaaS | Payments | Agentic Systems
+B2B SaaS | Payments | Agentic Systems
 
 I specialize in payment infrastructure, data-connected dashboards, internal tooling, and AI agents that actually work in production.
 
 My work : orchestrating agents with LangGraph, multi-client pipelines, Stripe integrations, forecasting systems, and AI-powered product features. 
 
-I care about shipping things that are fast, reliable, and built to scale.
 If you're building something in that space or know someone who is, let's connect!
 
 <br>
